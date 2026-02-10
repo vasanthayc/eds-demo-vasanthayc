@@ -1,2 +1,2 @@
-mountpoints:
+  mountpoints:
   /: https://raw.githubusercontent.com/vasanthayc/eds-demo-vasanthayc/main/
